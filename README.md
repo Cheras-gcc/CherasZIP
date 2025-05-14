@@ -7,8 +7,8 @@ Proyecto personal con fines puramente académicos.<br>
 
 ## Funcionamiento
 
-Obtener el ejecutable CherasZIP.exe del directorio /build.<br>
-Actualmente, limitado su uso a plataformas Windows mediante CMD.<br>
+Obtener el ejecutable CherasZIP.exe del directorio build/.<br>
+Actualmente, su uso se encuentra limitado a plataformas Windows mediante CMD.<br>
 <pre>
   Modo de uso (compresión) - Obtención del archivo comprimido file.extension.cheras
   >> .\CherasZIP.exe .\file.extension encode
