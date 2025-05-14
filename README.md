@@ -28,13 +28,13 @@ Actualmente, limitado su uso a plataformas Windows mediante CMD.<br>
 ### Estructura del proyecto
 <pre>
   CherasZIP
-  |____ build/
-  |____ include/
-  ||________ cola.h
-  ||________ huffman.h
-  |____ src/
-  ||________ cola.c
-  ||________ huffman.c
-  ||________ main.c
-  |____ Makefile
+  |---- build/
+  |---- include/
+  ||........ cola.h
+  ||........ huffman.h
+  |---- src/
+  ||........ cola.c
+  ||........ huffman.c
+  ||........ main.c
+  |---- Makefile
 </pre>
