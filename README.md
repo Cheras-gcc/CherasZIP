@@ -12,11 +12,29 @@ Proyecto personal con fines puramente académicos.<br>
 Obtener el ejecutable CherasZIP.exe del directorio /build.<br>
 Actualmente, limitado su uso a plataformas Windows mediante CMD.<br>
 <pre>
-  Modo de funcionamiento (compresión):
+  Modo de uso (compresión) - Obtención del archivo comprimido file.extension.cheras
   >> .\CherasZIP.exe .\file.extension encode
-  Obtención del archivo comprimido file.extension.cheras
-
-  Modo de funcionamiento (descompresión): 
+  
+  Modo de uso (descompresión) - específicamente diseñado para archivos .cheras propios del compresor CherasZIP.
   >> .\CherasZIP.exe .\file.extension.cheras decode
-  Uso específicamente diseñado para archivos .cheras propios del compresor CherasZIP.
+</pre>
+
+## Características
+- Compresión de archivos mediante algoritmo de Huffman.
+- Descompresión precisa y sin pérdida.
+- Interfaz por línea de comandos simple.
+- Implementado en C.
+
+### Estructura del proyecto
+<pre>
+  CherasZIP
+  |____ build/
+  |____ include/
+  ||________ cola.h
+  ||________ huffman.h
+  |____ src/
+  ||________ cola.c
+  ||________ huffman.c
+  ||________ main.c
+  |____ Makefile
 </pre>
