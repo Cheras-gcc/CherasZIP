@@ -1,5 +1,5 @@
-## CherasZIP
-# Descripción
+# CherasZIP
+## Descripción
 Compresor de archivos simple basado en el algoritmo de compresión de Huffman.<br>
 Permite codificar y descodificar archivos empleando el algoritmo de Huffman, un método<br>
 de compresión eficiente y sin pérdidas cuya idea es asignar códigos binarios más cortos a<br>
@@ -7,7 +7,7 @@ los caracteres aparecidos con mayor frecuencia.<br>
 
 Proyecto personal con fines puramente académicos.<br>
 
-# Funcionamiento
+## Funcionamiento
 
 Obtener el ejecutable CherasZIP.exe del directorio /build.<br>
 Actualmente, limitado su uso a plataformas Windows mediante CMD.<br>
