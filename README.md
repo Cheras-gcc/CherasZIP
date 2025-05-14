@@ -31,10 +31,10 @@ Actualmente, limitado su uso a plataformas Windows mediante CMD.<br>
   |-- build/
   |-- include/
   ||...... cola.h
-  ||....... huffman.h
+  ||...... huffman.h
   |-- src/
   ||...... cola.c
-  ||....... huffman.c
-  ||........ main.c
+  ||...... huffman.c
+  ||...... main.c
   |---- Makefile
 </pre>
