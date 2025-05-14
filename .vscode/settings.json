@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "huffman.h": "c",
+        "stdio.h": "c",
+        "cola.h": "c",
+        "stdbool.h": "c"
+    }
+}
